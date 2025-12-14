@@ -4,9 +4,11 @@ console.log(name.indexOf("s"))
 console.log(name.toUpperCase())
 console.log(name.substring(0, 3))
 console.log(name.slice(-7, 1))
-const newOne = "   Asad    "
+
+
+const newOne = " As-ad "
 console.log(newOne)
 console.log(newOne.trim())
-
+console.log(newOne.split("-"))
 
 
