@@ -13,5 +13,24 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 console.log(booleanIsLoggedIn)
 console.log(typeof booleanIsLoggedIn)
 
+const bigNumber = 123456789n
+console.log(typeof bigNumber)
+
 // 1 => true , 0 => false
 // "" => false , "abc" => true
+
+//Non Primitive
+
+// const user = ["abc", "def", "efg"];
+ 
+// let heros = {
+//     name: "Sam",
+//     age: 14,
+// }
+
+// const myFunction = function(){
+//     console.log("hello world")
+// }
+
+let another = Symbol("abc")
+console.log(typeof another)
