@@ -26,3 +26,10 @@ const newArr2 = arr.splice(1,3)
 console.log("C", newArr)
 console.log(newArr2)
 
+
+// Array part2
+
+const heroes = ["thor", "spiderman"]
+const newher = ["ironman"]
+const allHeros =heroes.concat(newher)
+console.log(allHeros)
