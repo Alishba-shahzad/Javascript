@@ -40,3 +40,21 @@ const newher = ["ironman"]
 
 const str = [...heroes, ...newher]
 console.log(str)
+
+
+const anotherArr = [1,2,[3,4],5,[6,7,8,[9,0]]]
+
+const real_another = anotherArr.flat(Infinity)
+console.log(real_another)
+
+
+// isArray
+console.log(Array.isArray("Alish"));
+console.log(Array.from(name= "Alish")); // interesting
+
+
+let score1 = 200
+let score2 = 400
+let score3 = 600
+
+console.log(Array.of(score1, score2, score3))
