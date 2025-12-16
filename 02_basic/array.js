@@ -48,9 +48,12 @@ const real_another = anotherArr.flat(Infinity)
 console.log(real_another)
 
 
-// isArray
+// isArray, from , of 
+
+
 console.log(Array.isArray("Alish"));
-console.log(Array.from(name= "Alish")); // interesting
+console.log(Array.from({name: "Alish"})); // interesting
+console.log(Array.from("Alish"))
 
 
 let score1 = 200
