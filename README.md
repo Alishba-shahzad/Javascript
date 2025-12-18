@@ -7,7 +7,7 @@ I'm a JavaScript-focused software developer who loves building clean, accessible
   
 #  About Me
 - Passionate about modern web development (React, Node.js, TypeScript).
-- I enjoy turning ideas into production-ready products and teaching through writing and talks.
+- I enjoy turning ideas into production-ready products & teaching through writing and talks.
 - I care about performance, developer experience, and inclusive design.
 
 ---
